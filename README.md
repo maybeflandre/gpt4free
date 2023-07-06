@@ -31,11 +31,11 @@ Docker is for now not available but I would be happy if someone contributes a PR
 #### Setting up the project:
 1. Clone the GitHub repository: 
 ```
-git clone https://github.com/xtekky/gpt4free.git
+git clone https://github.com/yourusername/your-repo.git
 ```
 2. Navigate to the project directory:
 ```
-cd gpt4free
+cd your-repo
 ```
 3. (Recommended) Create a virtual environment to manage Python packages for your project:
 ```
